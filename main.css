@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    src: url(UbuntuMono-B.ttf);
+}
+body{
+font-family: Ubuntu;
+}
+.test{
+color: red;
+font-size: 48px;
+}
+.hi{
+  color: pink;
+  font-size: 25px;
+}
+.bye{
+  color: green;
+  font-size: 100px;
+}
+.ugh{
+  color: purple;
+  font-size: 85px;
+}
